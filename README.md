@@ -12,7 +12,7 @@ Este repositorio es un proyecto en Unity3D para el taller de videojuegos dictado
 * Hacer el videojuego sin necesidad de conceptos de programación.
 * Para aquellos que no conocen la interfaz de Unity3D: Antes de iniciar con el tutorial sobre el desarrollo del videojuego, se recomienda ver el tutorial donde se explica la interfaz de unity3D. Link del videotutorial (30 minutos): https://www.youtube.com/watch?v=fult8GvB_Ns&list=PLE-2hvBfelm2VB8VeCBsIKpq9OnWrr3Jq 
 
-Si ya estás familiarizado con la interfaz de Unity3D puedes empezar sin ningún problema con el tutorial para desarrollar el shooter propuesto en este taller. Recuerda que antes de empezar con este tutorial debes descargar este repositorio que contiene el proyecto de Unity3D. Link del videotutorial (45 minutos): https://vimeo.com/174619476
+Si ya estás familiarizado con la interfaz de Unity3D puedes empezar sin ningún problema con el tutorial para desarrollar el shooter propuesto en este taller. Recuerda que antes de empezar con este tutorial debes descargar este repositorio que contiene el proyecto de Unity3D. Link del videotutorial (45 minutos): https://www.youtube.com/playlist?list=PLE-2hvBfelm24CfrrZjgZjjOJOXCQHeQ1 
 
 ## Recomendaciones
 
